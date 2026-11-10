@@ -1,0 +1,12 @@
+Job ID: 22775482
+Array Job ID: 22774379_53
+Cluster: shen
+User/Group: sdq6nt/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:10
+CPU Efficiency: 25.00% of 00:00:40 core-walltime
+Job Wall-clock time: 00:00:20
+Memory Utilized: 1.36 GB
+Memory Efficiency: 8.48% of 16.00 GB (16.00 GB/node)

@@ -1,0 +1,85 @@
+{
+  "documents": 101,
+  "summarized": 62,
+  "runs_by_job": [
+    {
+      "_id": "22774379",
+      "books": 45
+    },
+    {
+      "_id": "22774535",
+      "books": 1
+    },
+    {
+      "_id": "22774754",
+      "books": 17
+    }
+  ],
+  "genres": [
+    {
+      "_id": "historical fiction",
+      "books": 16
+    },
+    {
+      "_id": "adventure",
+      "books": 14
+    },
+    {
+      "_id": "children's story",
+      "books": 9
+    },
+    {
+      "_id": "mystery",
+      "books": 9
+    },
+    {
+      "_id": "romance",
+      "books": 6
+    },
+    {
+      "_id": "science fiction",
+      "books": 3
+    },
+    {
+      "_id": "horror",
+      "books": 2
+    },
+    {
+      "_id": "drama",
+      "books": 2
+    },
+    {
+      "_id": "unknown",
+      "books": 1
+    }
+  ],
+  "last_summarized": [
+    {
+      "_id": "pg12.txt",
+      "author": "Lewis Carroll",
+      "title": "Through the Looking-Glass",
+      "llm_analysis": {
+        "summary": "Alice encounters various fantastical creatures and situations throughout Wonderland, including the White Rabbit, the Mad Hatter, the March Hare, the Cheshire Cat, the Queen of Hearts, the Knave of Hearts, the Mock Turtle, the Gryphon, the Caterpillar, the Cheshire Cat, the Duchess, the Grinch, the Red Queen, the White Queen, the Mouse, the Dormouse, the March Hare, the Hatter, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March Hare, the March",
+        "genre": "unknown"
+      }
+    },
+    {
+      "_id": "pg1260.txt",
+      "author": "Charlotte Bront\u00eb",
+      "title": "Jane Eyre: An Autobiography",
+      "llm_analysis": {
+        "summary": "Jane Eyre, a young orphan girl living at Gateshead Hall, experiences a series of events leading to her expulsion from the house. She is sent to Lowood School, where she meets Miss Temple, the superintendent. Jane begins to develop friendships and relationships with the students, including Miss Scatcherd and Burns.",
+        "genre": "drama"
+      }
+    },
+    {
+      "_id": "pg1400.txt",
+      "author": "Charles Dickens",
+      "title": "Great Expectations",
+      "llm_analysis": {
+        "summary": "Pip, a young boy, finds himself in various predicaments due to his upbringing by hand. He robs Mrs. Joe Gargery, runs into a dangerous criminal, and narrowly escapes capture. Despite his actions, he learns valuable lessons about responsibility and loyalty.",
+        "genre": "mystery"
+      }
+    }
+  ]
+}
